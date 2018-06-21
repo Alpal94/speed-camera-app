@@ -1,5 +1,6 @@
 # Speed Camera App
-Speed camera web application which displays all the mobile speed cameras in Perth, Western Australia on a map.
+Speed camera web application which displays all the mobile speed cameras in Perth, Western Australia on a map. 
+Check it out at http://theterminator.hopto.org/speed
 ## Getting Started
 ## Prerequisites
 This project requires a linux machine as it uses bash scripting.  The project is setup to work from the /var/www/html/speed directory.
